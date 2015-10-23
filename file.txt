@@ -8,3 +8,5 @@ i am on develop
 before mere --no-ff
 
 one change 
+
+another change before merge
